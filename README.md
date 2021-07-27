@@ -9,7 +9,7 @@
 这样
 
 
-![img](https://github.com/TMFfa/a-game-script/blob/main/img1.png)
+![img](https://pic.liesio.com/2021/07/27/ddf4a0536fb0a.png)
 
 
 这是四个方块
@@ -18,7 +18,7 @@
 每动一个方块
 
 
-![img](https://github.com/TMFfa/a-game-script/blob/main/img2.png)
+![img](https://pic.liesio.com/2021/07/27/4fb1a55ec9f16.png)
 
 
 那个方块和相邻两个方块数字就会+1
